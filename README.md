@@ -1,0 +1,2 @@
+# prediction_of_customer
+In a mature risk management system, it is natural to use a well-developed method to analyze whether a card holder is going to default or not. Many machine learning techniques have been utilized for risk prediction. In this project, we employed naïve Bayes, logistic regression and K-nearest-neighbor classifier to predict the default of credit cards based on a data set in Taiwan.
